@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "40b7e49d-280e-4e73-97d2-f7c4c86b31ce": {
+      "ProjectGuid": "40b7e49d-280e-4e73-97d2-f7c4c86b31ce",
+      "DisplayName": "DmD.Web",
+      "ColorIndex": 0
+    },
+    "37942ba0-f0aa-48b6-9b88-0331dcaa4022": {
+      "ProjectGuid": "37942ba0-f0aa-48b6-9b88-0331dcaa4022",
+      "DisplayName": "DmD.Data",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
